@@ -1,0 +1,46 @@
+#nav-brand{
+  font-size: 2.0em;
+}
+
+#account-id{
+  font-size: 1.3em;
+  color: rgba(52, 231, 216, 0.7)
+}
+
+#campground-card{
+  font-size: 1.25em;
+}
+
+.header{
+  text-align: center;
+}
+
+.navbar-links{
+  font-size: 1.5em;
+}
+
+.form {
+  width: 30%;
+  margin: 25px auto;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+
+.thumbnail {
+  padding: 0;
+}
+
+.deleteForm {
+  display: inline;
+}
+
+h1 {
+  text-align: center;
+}
+
+body{
+  font-family: 'Amatic SC', cursive;
+}
+
